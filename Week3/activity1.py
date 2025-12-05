@@ -31,4 +31,4 @@ if __name__ == "__main__":
 
     print (f"Total '*' count in the file: {count}")
     
-    #C:/YooBee/PSE/Docs/3280709.txt
+    #path = C:/YooBee/PSE/Docs/3280709.txt
