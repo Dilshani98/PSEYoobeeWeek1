@@ -1,7 +1,7 @@
 This OOP project is to develop & design a simple database using python & sqlite3 for 
 managing a clinic system as mentioned in the activity5.
 
-This database includes three entities as Doctors, SpecializedAreas, & Patients. 
+This database includes three entities as Doctors, Appointments, & Patients. 
 ER diagram attached here will give more details about the specifications of the tables.
 In this project we use python with sqlite3 to connect
 with the database & insert 3 sample data into each table. Project includes the relevant functions to execute the queries to retrieve 
